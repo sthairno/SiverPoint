@@ -1,0 +1,33 @@
+<Layout>
+    <Box style="align-items: stretch; flex-direction: column;" id="page-number">
+        <Box style="flex-direction: row; padding: 0.3em 1em; font-size: 3em; border-bottom-width: 2px;" id="header">
+            <Label id="title-text">
+                タイトル
+            </Label>
+        </Box>
+        <Box style="flex: 1 1 0px; align-items: flex-start; justify-content: flex-start; flex-direction: column;" id="main">
+            <Box style="flex: 1 1 0px; position: absolute; bottom: 10px; right: 10px; gap: 5px;" id="mGsKjbsaep">
+                <SimpleGUI.Button id="pointer-button">
+                    ☝️
+                </SimpleGUI.Button>
+                <SimpleGUI.Button id="back-button">
+                    ◀
+                </SimpleGUI.Button>
+                <SimpleGUI.Button id="forward-button">
+                    ▶
+                </SimpleGUI.Button>
+            </Box>
+        </Box>
+        <Box style="flex-direction: row; padding: 0.5em 1.4em; font-size: 1.4em; justify-content: space-between; border-top-width: 2px;" id="footer">
+            <Label id="date-text">
+                日付
+            </Label>
+            <Label style="position: static;" id="S2t_ds0VcA">
+                プレゼン名
+            </Label>
+            <Label id="page-number-text">
+                ページ番号
+            </Label>
+        </Box>
+    </Box>
+</Layout>

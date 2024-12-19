@@ -1,0 +1,13 @@
+<Layout>
+    <Box style="padding: 30px; gap: 10px; justify-content: center; align-items: center; flex-flow: column; font-size: 24px;" id="confetti-area">
+        <Label style="font-size: 30px;" id="F80jVovl3G">
+            Siv3Dの高い表現度との組み合わせ技が可能に
+        </Label>
+        <SimpleGUI.Button id="confetti-btn">
+            Click!
+        </SimpleGUI.Button>
+        <Label style="position: absolute; right: 20px; bottom: 60px;" id="T_1AxI7ci6">
+            すばらしい！！！！
+        </Label>
+    </Box>
+</Layout>

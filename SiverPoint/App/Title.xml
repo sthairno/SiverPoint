@@ -1,0 +1,12 @@
+<Layout>
+    <Box style="padding: 10px; gap: 50px; justify-content: center; align-items: center; flex-flow: column;" id="-E33hcPJ_J">
+        <Label style="font-size: 64px; text-align: center;" id="9TCFJvUGqS">
+            OpenSiv3Dは
+            <br/>
+            PowerPointの夢を見るか
+        </Label>
+        <Label style="padding: 10px; font-size: 30px;" id="S05-zAfmp2">
+            sthairno
+        </Label>
+    </Box>
+</Layout>

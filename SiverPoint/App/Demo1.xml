@@ -1,0 +1,15 @@
+<Layout>
+    <Box style="padding: 30px; gap: 10px; justify-content: flex-start; align-items: stretch; flex-flow: column; font-size: 24px;" id="-E33hcPJ_J">
+        <Label style="font-size: 1.4em;" id="F80jVovl3G">
+            基本的な使い方
+        </Label>
+        <Box style="flex-direction: column; gap: 5px; padding: 10px; flex-grow: 1; align-items: center; justify-content: center;" id="Z6-nKLbjRy">
+            <Label style="font-size: 40px;" id="X4aVA60zx_">
+                ライブコーディング
+            </Label>
+            <Label id="4OEQCYREQk">
+                (PCが死なないことを祈る...)
+            </Label>
+        </Box>
+    </Box>
+</Layout>

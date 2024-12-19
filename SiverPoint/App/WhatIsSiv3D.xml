@@ -1,0 +1,58 @@
+<Layout>
+    <Box style="padding: 30px; column-gap: 50px; justify-content: flex-start; align-items: stretch; flex-flow: column; font-size: 24px;" id="-E33hcPJ_J">
+        <Box style="flex-direction: column; gap: 5px; padding: 10px;" id="L6W7ifmx_P">
+            <Label style="font-size: 1.2em;" id="D4zZrWBQiF">
+                "Siv3D（シブスリーディー）は、音や画像、AI を使ったゲームやアプリを、
+                <br/>
+                モダンな C++ コードで楽しく簡単に開発できるオープンソースのフレームワークです。"
+            </Label>
+            <Label style="text-align: right; font-size: 1em;" id="ygdyQPxiny">
+                Siv3D公式ページより
+            </Label>
+        </Box>
+        <Label style="font-size: 1.2em;" id="Jb6I0zvZmj">
+            例えば...
+        </Label>
+        <Box style="flex-direction: row; gap: 5px; padding: 20px 10px 20px 20px; flex-grow: 1; align-items: stretch;" id="h5jGsf-boL">
+            <Box style="flex: 1 1 0px; flex-direction: column;" id="U3ckrptYjB">
+                <Label style="font-size: 1.1em;" id="_FEBtvufY8">
+                    ソースコード (C++)
+                </Label>
+                <Label style="padding: 10px;" id="Q4tk9U-VC4">
+                    #include &lt;Siv3D.hpp&gt;
+                    <br/>
+                    <br/>
+                    void Main()
+                    <br/>
+                    {
+                    <br/>
+                    while (System::Update())
+                    <br/>
+                    {
+                    <br/>
+                    Circle{ Cursor::PosF(), 30 }
+                    <br/>
+                    .draw(Palette::Orange);
+                    <br/>
+                    }
+                    <br/>
+                    }
+                </Label>
+                <Label style="font-size: 12px; position: absolute; right: 10px; bottom: 10px;" id="dcAbGpT3li">
+                    インデントが消えている...?
+                    <br/>
+                    はて、なんの話でしょうか
+                </Label>
+            </Box>
+            <Label style="align-self: center;" id="z8RrAzBTIx">
+                →
+            </Label>
+            <Box style="flex: 1 1 0px; flex-direction: column;" id="6OEOshyozm">
+                <Label style="font-size: 1.1em;" id="FuKgop3yTu">
+                    実行結果
+                </Label>
+                <Box style="flex: 1 1 0px; border-width: 1px;" id="sample1-display"/>
+            </Box>
+        </Box>
+    </Box>
+</Layout>

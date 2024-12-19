@@ -1,0 +1,42 @@
+<Layout>
+    <Box style="padding: 30px; gap: 10px; justify-content: flex-start; align-items: stretch; flex-flow: column; font-size: 26px;" id="-E33hcPJ_J">
+        <Label id="xX58jWmsIW">
+            現在のOpenSiv3Dでは「SimpleGUI」というGUI環境が用意されている
+        </Label>
+        <Box style="flex-direction: column;" id="f3C0nD37iv">
+            <Label id="dTt76bLgBB">
+                こんなのとか
+            </Label>
+            <Box style="flex-direction: row; gap: 5px; padding: 10px;" id="HubjQ8qQaa">
+                <SimpleGUI.Button style="flex-grow: 1;" id="TbeVWaeRn8">
+                    Button
+                </SimpleGUI.Button>
+                <SimpleGUI.Slider style="flex-grow: 1;" id="Y2COUSVyqN"/>
+            </Box>
+        </Box>
+        <Box style="flex-direction: column; gap: 5px; padding: 20px 30px;" id="WCr731FdJ_">
+            <Label style="font-size: 1.5em;" id="PpoJm3SACT">
+                課題
+            </Label>
+            <Label style="line-height: 1.8; margin-top: 0.4em; margin-bottom: 0.8em;" id="vSgLYDwLL9">
+                ・現状は座標直打ちで、横に並べるなどの操作は難しい
+                <br/>
+                ・UIの微調整が非常に大変 (実装→ビルド→実行→修正→...の繰り返し)
+                <br/>
+                ・まだカスタマイズ性が低い
+                <br/>
+                ・ぶっちゃけ無駄でもハイテク高機能なUIライブラリを自分用に作ってみたい
+            </Label>
+            <Label style="text-align: center;" id="nRyF7DEanF">
+                ↓
+            </Label>
+            <Label style="font-size: 32px; text-align: center;" id="IOsB-Td-Bd">
+                ＿人人人人人人人＿
+                <br/>
+                ＞　FlexLayout　＜
+                <br/>
+                ￣Y^Y^Y^Y^Y^Y^Y￣
+            </Label>
+        </Box>
+    </Box>
+</Layout>

@@ -1,0 +1,6 @@
+.vs
+Intermediate
+*.vcxproj.user
+
+**/App/AS_DEBUG
+*.exe

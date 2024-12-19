@@ -1,0 +1,35 @@
+<Layout>
+    <Box style="padding: 30px; gap: 20px 10px; justify-content: flex-start; align-items: stretch; flex-flow: column; font-size: 24px;" id="-E33hcPJ_J">
+        <Label style="text-align: center; font-size: 1.4em;" id="Gg1YqUIAXt">
+            OpenSiv3DはPowerPointの夢を見るか
+            <br/>
+            ↓
+            <br/>
+            まあ...多分...いつか...
+        </Label>
+        <Label style="font-size: 1.3em; text-align: left; padding-left: 40px; padding-right: 40px;" id="5TVGkqQ_KW">
+            ・まだまだ機能不足、辛い部分が多すぎる
+            <br/>
+            ・膨大な実装コストにより開発期間の長期化 (これまで約5ヶ月間、13,000行)
+            <br/>
+            ・バグが大量発生
+        </Label>
+        <Box style="flex-direction: column; gap: 5px; padding: 20px;" id="iV-f7alfuv">
+            <Label style="font-size: 1.6em;" id="c501BI_7GF">
+                今後の展望
+            </Label>
+            <Box style="flex-direction: column; gap: 20px; padding: 10px; font-size: 1.2em;" id="4PzSSw8FEl">
+                <Label id="tIXWklZKji">
+                    これを高専プロコンでぜひ活用していただきたい
+                    <br/>
+                    もちろんゲーム開発にも使えるよう機能強化していくつもり
+                </Label>
+                <Label id="UtRc6NdBZF">
+                    一番の恐れは需要のない機能を作ってしまうこと、
+                    <br/>
+                    ぜひ遠慮なくフィードバックください！
+                </Label>
+            </Box>
+        </Box>
+    </Box>
+</Layout>

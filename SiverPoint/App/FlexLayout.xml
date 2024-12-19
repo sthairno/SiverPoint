@@ -1,0 +1,22 @@
+<Layout>
+    <Box style="padding: 30px; gap: 10px; justify-content: flex-start; align-items: flex-start; flex-flow: column; font-size: 24px; line-height: 1.6;" id="-E33hcPJ_J">
+        <Label style="font-size: 1.6em;" id="1gZFr-l1xk">
+            特徴
+        </Label>
+        <Label style="padding: 20px; font-size: 1.2em;" id="5EnehQ61hU">
+            Webのレイアウト技術である「フレックスボックス」をSiv3Dに組み込んだライブラリ
+            <br/>
+            → ブラウザで動くものはSiv3Dでも動く！
+            <br/>
+            <br/>
+            Webデザイナーでレイアウトを編集
+            <br/>
+            → UIの難しい知識なしでも画面を作れる！
+            <br/>
+            <br/>
+            ホットリロード機能により、配置に変更があった場合自動で再読み込み
+            <br/>
+            → Siv3Dの画面を見ながら微調整ができる！
+        </Label>
+    </Box>
+</Layout>

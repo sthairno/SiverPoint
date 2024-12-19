@@ -1,0 +1,20 @@
+<Layout>
+    <Box style="padding: 30px; gap: 40px; align-items: flex-start; flex-flow: column; font-size: 30px;" id="-E33hcPJ_J">
+        <Label id="rw2dl3oFtt">
+            まだまだ開発途中です
+            <br/>
+            ここで話した機能については今後仕様変更される可能性が大です
+        </Label>
+        <Label id="jTON5o3GD6">
+            このプレゼン機能を実装するのに約3時間費やしました (1敗)
+        </Label>
+        <Label id="WFBbR4wUzg">
+            実装中に5個くらいバグを潰しました (2敗)
+        </Label>
+        <Label id="vRiqpNBXWw">
+            画面表示に関する実装が間に合わなかったため、基本白文字+黒背景です
+            <br/>
+            (読みづらかったらごめんなさい)
+        </Label>
+    </Box>
+</Layout>
